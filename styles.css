@@ -1,6 +1,10 @@
 h1 {
+<<<<<<< HEAD
    color: red;
 }
 h2 {
    color: orange;
+=======
+   color: blue;
+>>>>>>> bb5d3a3bc78bd433a22821b5845f0cdbcc71d304
 }
